@@ -24,33 +24,33 @@ Sentiment Gauge: A dynamic visualizer that translates complex index-wide breadth
 
 Interactive Treemaps: Provides a weight-adjusted view of the market, allowing users to see exactly which heavyweight stocks are driving index movement.
 
-<div align="center">
-  <video src="https://github.com/kaushal7781/REAL-TIME-EQUITY-SCREENER-AND-MARKET-DASHBOARD/blame/75f7261da04d97d1ea181e09f82cc501cedbf56c/1.%20Market%20Sentimap.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/be9cfb0a-b719-4e26-8065-17fc76b58a14
+
+
 
 **🌐 Sector Scope (Orbital Rotation Analysis)**
 Orbital UI: Solves the problem of identifying sector leadership through a unique visualization where sector "orbs" expand or contract based on capital flow, providing a 360-degree view of "smart money" movement.
 
 Synchronized Data Grid: Deep-dives into stock-level performance metrics (Price, % Change) the moment a sector is selected via the orbital interface.
 
-<div align="center">
-  <video src="https://github.com/kaushal7781/REAL-TIME-EQUITY-SCREENER-AND-MARKET-DASHBOARD/blob/main/2.%20Sector%20Scope.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/b6feba74-8384-4e36-98b7-22454400a814
+
+
 
 **⚡ AI Arena (Momentum Discovery)**
 Mighty Move AI: A momentum-tracking module that surfaces stocks exhibiting abnormal activity and price action.
 
 Launchpad: An early-alert system for stocks entering a bullish structural shift, based on predefined technical and financial parameters.
 
-<div align="center">
-  <video src="https://github.com/kaushal7781/REAL-TIME-EQUITY-SCREENER-AND-MARKET-DASHBOARD/blob/main/3.%20Ai%20Arena.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/cd4b7a4d-e392-425f-8fd0-62af31181704
+
+
 
 **🎨 Advanced UX Logic**
 Implementation of "Shimmer" loading states and skeleton screens to manage data hydration from Firebase, ensuring a professional, high-end terminal feel during data fetches.
