@@ -1,11 +1,11 @@
 ***REAL-TIME-EQUITY-SCREENER-AND-MARKET-DASHBOARD** 📈🤖
 
-***BRIEF DESCRIPTION / PURPOSE** 
+***BRIEF DESCRIPTION / PURPOSE**  
 This project was engineered to solve the "Noise-to-Signal" problem. In a market with 2000+ volatile scrips, a primary challenge for participants is identifying genuine institutional capital flow versus retail noise.
 
 This project showcases an automated surveillance system that centralizes fragmented market data into a cohesive visual hierarchy. By quantifying market breadth and sector rotation in real-time, the project eliminates the need for manual screening, allowing for the immediate identification of extraordinary activity and structural moves across the NSE.
 
-***TECH STACK** 
+***TECH STACK**  
 Data Orchestration: Google Sheets (Engine) & Google Apps Script (Automation).
 
 Database & Real-time Bridge: Firebase Realtime Database for low-latency data syncing between the spreadsheet and the web interface.
@@ -18,14 +18,14 @@ Styling: Tailwind CSS with a custom Cyber-Neon aesthetic.
 
 Analysis Logic: Hybrid distribution between Google Sheet Formulas (backend processing) and Client-side JavaScript (frontend filtering).
 
-***FEATURES / HIGHLIGHTS** 
+***FEATURES / HIGHLIGHTS**  
 **📊 Market SentiMap (Index Breadth)**
 Sentiment Gauge: A dynamic visualizer that translates complex index-wide breadth into a singular, actionable directional reading.
 
 Interactive Treemaps: Provides a weight-adjusted view of the market, allowing users to see exactly which heavyweight stocks are driving index movement.
 
 <div align="center">
-  <video src="https://github.com/kaushal7781/REAL-TIME-EQUITY-SCREENER-AND-MARKET-DASHBOARD/blob/main/1.%20Market%20Sentimap.mp4" width="100%" controls autoplay muted loop>
+  <video src="https://github.com/kaushal7781/REAL-TIME-EQUITY-SCREENER-AND-MARKET-DASHBOARD/blame/75f7261da04d97d1ea181e09f82cc501cedbf56c/1.%20Market%20Sentimap.mp4" width="100%" controls autoplay muted loop>
     Your browser does not support the video tag.
   </video>
 </div>
